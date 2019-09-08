@@ -1,0 +1,4 @@
+#Sun Sep 08 16:16:33 CDT 2019
+base.0=/Users/Mavericks/development/flutter/clickdraw/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
