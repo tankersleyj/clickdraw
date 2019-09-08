@@ -15,7 +15,7 @@ $ flutter emulators --launch Nexus_5X_API_28_x86
 $ flutter emulators --launch apple_ios_simulator
 
 ## Run
-$ flutter run
+$ flutter run (or see instructions)
 
 ## Getting Started
 
